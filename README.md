@@ -1,5 +1,5 @@
 # EyeDiseaseYOLOv5Detector
-Jupyter Notebook used in detecting eye Diseases using YOLOv5. The file outputs are yet to be cleaned.
+Jupyter Notebook used in detecting eye Diseases using YOLOv5.
 
 Categories classified:
 1) Normal

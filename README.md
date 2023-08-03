@@ -11,5 +11,4 @@ The dataset used is called Ocular Disease Recognition Dataset, which is availabl
 https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 Tool used to annotate the custom dataset: Label Studio.
-
 Download Link: https://labelstud.io

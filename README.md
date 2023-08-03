@@ -10,5 +10,6 @@ Categories classified:
 The dataset used is called Ocular Disease Recognition Dataset, which is available on Kaggle. It can be downloaded from the following link:
 https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
-Tool used to annotate the custom dataset: Label Studio
-Download Link:https://labelstud.io
+Tool used to annotate the custom dataset: Label Studio.
+
+Download Link: https://labelstud.io
